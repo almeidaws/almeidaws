@@ -11,6 +11,30 @@
 
 - ⚡ Fun fact **I never drank alcohol in my life**
 
+<h3 alignt="left">Studying Projects:</h3>
+
+[Landmarks App, 2024](https://github.com/almeidaws/swiftui-landmarks)
+- 📝 Landmarks is an app created in the official SwiftUI Tutorial.
+- 📱 iOS app
+
+<h3 alignt="left">Interview Challenges:</h3>
+
+[Weather Here, 2020](https://github.com/almeidaws/weatherhere)
+- 📝 Weather is an iOS App that fetches weather data from Open Weather and presents weather for current user's location.
+- 📱 iOS app
+
+[Currency, 2020](https://github.com/almeidaws/mobile-challenge)
+- 📝 Currency is an iOS app that presents quotes of many currencies using a Currency Layer API.
+- 📱 iOS app
+
+[Marvel's Heroes, 2020](https://github.com/almeidaws/desafio-ios-gustavo-amaral)
+- 📝 Marvel's Heroes is an app that consumes data from Marvel's API and presents the characters
+- 📱 iOS, iPad and MacOS app
+
+[GitHub Issues, 2019](https://github.com/almeidaws/githubissues)
+- 📝 View GitHub Issues from Apple's repository
+- 📱 iOS App
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/almeidaws" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="almeidaws" height="30" width="40" /></a>
