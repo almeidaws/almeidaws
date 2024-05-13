@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gustavoalmeidaws@gmail.com**
 
-- ⚡ Fun fact **I never drank alcohol in my life**
+- ⚡ Fun fact **I've never drank alcohol in my life**
 
 <h3 alignt="left">Studying Projects:</h3>
 
