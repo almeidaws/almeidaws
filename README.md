@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Amaral</h1>
 <h3 align="center">iOS Developer with +6 years of experience.</h3>
 
-- 🔭 I’m currently working on [K2 Konnect](https://apps.apple.com/br/app/k2-konnect/id1254115084).
+- 🔭 I’m currently working at [Prodesp](https://www.prodesp.sp.gov.br/).
 
 - 🌱 I’m currently learning **SwiftUI and Combine**
 
