@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo Amaral</h1>
-<h3 align="center">iOS Developer with +6 years of experience.</h3>
+<h3 align="center">iOS Developer with +4 years of experience.</h3>
 
 - 🔭 I’m currently working at [Prodesp](https://www.prodesp.sp.gov.br/).
 
